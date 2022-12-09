@@ -1,2 +1,2 @@
-# practicas-Coderhousw
+# practicas-Coderhouse
 Pruebas - Python Coderhouse
